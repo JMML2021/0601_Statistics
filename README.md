@@ -1,4 +1,4 @@
-# 0601_Tasca_dades_probabilitats_i_estad-stiques
+# 0601_Statistics
 
 Sprint 6. Dades, Probabilitats i Estadístiques
 Durada : 7 dies 
